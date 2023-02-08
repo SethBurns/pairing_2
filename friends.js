@@ -5,3 +5,6 @@ var arrays = ["Adam", "Brian", "Chip", "Damien", "Ellie"]
     console.log(arrays[4])
 
     console.log(arrays[0])
+
+var placesToVisit = ["Arkansas", "California", "Florida", "Georgia", "Idaho"]
+
