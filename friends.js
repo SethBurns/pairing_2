@@ -8,3 +8,6 @@ var arrays = ["Adam", "Brian", "Chip", "Damien", "Ellie"]
 
 var placesToVisit = ["Arkansas", "California", "Florida", "Georgia", "Idaho"]
 
+placesToVisit.pop();
+
+    console.log(placesToVisit)
